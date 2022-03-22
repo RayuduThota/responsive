@@ -1,2 +1,2 @@
 # responsive
-responsive repo
+responsive repo for git commands demonstration
